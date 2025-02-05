@@ -1,3 +1,6 @@
+# 💫 About Me:
+👋 I have a strong passion for web development, focusing on Java, HTML, CSS, and JavaScript. <br><br>🚀 I’m open to exciting job opportunities in the tech industry!
+
 
 
 # 💻 Tech Stack:
